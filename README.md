@@ -34,3 +34,4 @@ work best on chromium base btw, you can download the min browser for minimal ui
 
 - [x] feat: add keyboard sound option (cuz not all users have great sound keyboard and mic)
 -> Solution: https://github.com/hainguyents13/mechvibes
+-
